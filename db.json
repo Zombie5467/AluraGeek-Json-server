@@ -1,0 +1,39 @@
+{
+  "producto": [
+    {
+      "imgUrl": "https://m.media-amazon.com/images/I/81YFWm335eL._AC_SL1500_.jpg",
+      "recomendado": "Free Shiping",
+      "nombre": "Funda Nintendo Premium",
+      "precio": "218.32",
+      "id": "7bdc6d9c-73b8-4b38-989c-ac66987e60a4"
+    },
+    {
+      "imgUrl": "https://m.media-amazon.com/images/I/71Q6y6rDsLL._AC_SL1500_.jpg",
+      "recomendado": "30% Off",
+      "nombre": "Protector OLET",
+      "precio": "22.25",
+      "id": "75a2a1ec-6585-4004-8134-1be5efa06d39"
+    },
+    {
+      "imgUrl": "https://m.media-amazon.com/images/I/61y7k2XmWoS._AC_SL1500_.jpg",
+      "recomendado": "26% Off",
+      "nombre": "Terasako Cable de carga",
+      "precio": "18.23",
+      "id": "876c9968-b648-4c14-8bee-db28afe85825"
+    },
+    {
+      "imgUrl": "https://m.media-amazon.com/images/I/41GYmjbeVSL._AC_SL1000_.jpg",
+      "recomendado": "Envio Gratis",
+      "nombre": "Fire TV Stick",
+      "precio": "28.32",
+      "id": "68c6b14b-f778-4670-85de-a1dc46cda4a0"
+    },
+    {
+      "imgUrl": "https://m.media-amazon.com/images/I/612bjwBuobS._SL1500_.jpg",
+      "recomendado": "20% Off",
+      "nombre": "PS5 DualSense",
+      "precio": "85.88",
+      "id": "1ecc32a7-0adb-4e6e-982c-62e189cb4590"
+    }
+  ]
+}
